@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
+<url>
+	<loc>tarun.cloud</loc>
+	<lastmod>2023-05-02</lastmod>
+	<changefreq>Weekly</changefreq>
+	<priority>1.0</priority>
+	<image:image>
+	<image:loc>tarun.cloud/img/arrow.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/truenas-svgrepo-com-2-removebg-preview.png</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/truenas-svgrepo-com-2-removebg-preview.webp</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/cazoobi-logo.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/web-zap.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/cms-icon.svg</image:loc>
+	<image:title>placeholder image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/arrow-dark.svg</image:loc>
+	<image:title>arrow</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/hello-speech-bubble-handmade-chatting-symbol-svgrepo-com.svg</image:loc>
+	<image:title>hello speech-bubble-handmade-chatting-symbol-svgrepo-com</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/</image:loc>
+	<image:title>Twitter Social Card Image</image:title>
+	</image:image>
+	<image:image>
+	<image:loc>tarun.cloud/img/</image:loc>
+	<image:title>Facebook Social Card Image</image:title>
+	</image:image>
+</url>
+</urlset>
